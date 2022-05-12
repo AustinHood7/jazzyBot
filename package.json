@@ -1,0 +1,14 @@
+{
+  "name": "jazzbot",
+  "version": "1.0.0",
+  "description": "Discord bot used to make chords more jazzy",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Austin Hood",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
